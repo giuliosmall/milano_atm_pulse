@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run app.py:
+Run `app.py`:
 
 ```bash
 python app.py
@@ -35,7 +35,7 @@ python app.py
 Below is a brief overview of the API functions and its API endpoints:
 
 - `/api/service` - Performs a health check of the API.
-- `/api/status` - Retrieves the current status of the M lines.
+- `/api/status` - Retrieves the current status of the underground lines.
 - `/api/traffic` - Provides planned traffic updates.
 - `/api/news` - Fetches the latest news from the ATM newsroom.
 
